@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesFantasticos", "AnimalesFantasticos\AnimalesFantasticos.csproj", "{60466363-6576-41DD-8D05-E7EB12BBA300}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesFantasticosDBContext", "AnimalesFantasticosDBContext\AnimalesFantasticosDBContext.csproj", "{A58CFDBA-131A-4A4A-8692-F46424177D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesFantasticosBusinessLogic", "AnimalesFantasticosBusinessLogic\AnimalesFantasticosBusinessLogic.csproj", "{4998DC95-C761-4205-9978-84DD87A56DB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesFantasticosDTO", "AnimalesFantasticosDTO\AnimalesFantasticosDTO.csproj", "{CBAC664D-3575-4ECF-A012-EFE972B136DD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalesFantasticosManager", "AnimalesFantasticosManager\AnimalesFantasticosManager.csproj", "{EF0226CA-C1DE-42CD-B9D7-542658FF21B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NUnitTestAnimales", "NUnitTestAnimales\NUnitTestAnimales.csproj", "{614F8365-AEDD-4F7C-9E7E-1410B3D6774A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60466363-6576-41DD-8D05-E7EB12BBA300}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60466363-6576-41DD-8D05-E7EB12BBA300}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60466363-6576-41DD-8D05-E7EB12BBA300}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60466363-6576-41DD-8D05-E7EB12BBA300}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A58CFDBA-131A-4A4A-8692-F46424177D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A58CFDBA-131A-4A4A-8692-F46424177D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A58CFDBA-131A-4A4A-8692-F46424177D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A58CFDBA-131A-4A4A-8692-F46424177D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4998DC95-C761-4205-9978-84DD87A56DB3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4998DC95-C761-4205-9978-84DD87A56DB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4998DC95-C761-4205-9978-84DD87A56DB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4998DC95-C761-4205-9978-84DD87A56DB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBAC664D-3575-4ECF-A012-EFE972B136DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBAC664D-3575-4ECF-A012-EFE972B136DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBAC664D-3575-4ECF-A012-EFE972B136DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBAC664D-3575-4ECF-A012-EFE972B136DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0226CA-C1DE-42CD-B9D7-542658FF21B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0226CA-C1DE-42CD-B9D7-542658FF21B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0226CA-C1DE-42CD-B9D7-542658FF21B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0226CA-C1DE-42CD-B9D7-542658FF21B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{614F8365-AEDD-4F7C-9E7E-1410B3D6774A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{614F8365-AEDD-4F7C-9E7E-1410B3D6774A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{614F8365-AEDD-4F7C-9E7E-1410B3D6774A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{614F8365-AEDD-4F7C-9E7E-1410B3D6774A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1BE08A7-3F5B-417E-BA76-7DC02C386803}
+	EndGlobalSection
+EndGlobal
