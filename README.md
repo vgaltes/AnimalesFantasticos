@@ -2,6 +2,7 @@
 
 ## Pre-requisites
 Docker: [Installation instructions](https://docs.docker.com/docker-for-mac/install/)
+
 MySql client: the easiest way to install it is using `brew install mysql`. This will install the client and the server but you can uninstall it after the workshop using `brew uninstall mysql`
 
 ## Starting the database
